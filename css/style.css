@@ -165,7 +165,7 @@ a:hover{
 	margin-top: 10px;
 	width: 150px;
 	line-height: 32px;
-	background: url(twit_big.png) no-repeat 8px center;	
+	background: url(img/twitt.png) no-repeat 8px center;	
 	background-color: #7CC372;
 	border: none;
 	border-radius: 5px;
@@ -219,4 +219,10 @@ button:hover{
 	
 			margin-top: 8px;
 		
+}
+.item img:hover{
+
+	transition: all 1s ease;
+	transform:rotate(360deg)scale(1.1) ;
+
 }
