@@ -231,3 +231,16 @@ button:hover{
 	color: #EB4F4E;
 
 }
+.pashalka{
+	display: inline-block;
+	margin-left: 250px;
+	color: #3b3b3d;
+
+
+}
+.content2 a{
+ 	text-decoration: none;
+ 	background: none;
+ 	color: white;
+
+}
