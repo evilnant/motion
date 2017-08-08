@@ -79,7 +79,7 @@ li{
 
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 747px) {
   .menu {
     text-align: center;
   }
@@ -102,7 +102,7 @@ li{
 
   }
 }
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 747px) {
   .menu ul li{
     display: block;
     margin: 25px;
